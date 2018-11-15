@@ -1,0 +1,10 @@
+G[S]
+S,A,B,C,D,E
+S::=ACaB
+Ca::=aaC
+CB::=DB
+CB::=E
+aD::=Da
+AD::=AC
+aE::=Ea
+E::=ε

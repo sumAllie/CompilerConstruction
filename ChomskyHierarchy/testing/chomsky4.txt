@@ -1,0 +1,5 @@
+G[S]
+S,A,B,C
+C::=BAC::=bB
+B::=cC
+C::=dA
